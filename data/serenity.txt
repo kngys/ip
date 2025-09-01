@@ -1,0 +1,4 @@
+D | 1 | return book | 30 Aug 2024
+T | 1 | read book
+E | 0 | attend meeting | 3pm | 5pm
+D | 0 | write essay | 22 Sep 2024
